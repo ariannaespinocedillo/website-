@@ -1,0 +1,2 @@
+var box ="bob"
+box = 18;https://www.google.com/imgres?imgurl=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Fspiderman-fictional-character-pc-game-screenshot-1418912.png&tbnid=-Pa9HlujEvQNvM&vet=12ahUKEwidi-_NuNL_AhWRJN4AHSJmAXoQMyguegUIARCjAw..i&imgrefurl=https%3A%2F%2Fpxhere.com%2Fen%2Fphoto%2F1418912&docid=VCMLjOq52BVsAM&w=3840&h=2160&q=spider%20man&safe=active&ved=2ahUKEwidi-_NuNL_AhWRJN4AHSJmAXoQMyguegUIARCjAw

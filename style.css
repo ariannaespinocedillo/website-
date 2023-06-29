@@ -1,0 +1,19 @@
+body{
+
+    background-color: rgb(34, 119, 1);
+    color: rgb(3, 38, 2);
+}
+
+
+img { 
+
+max-height:300px; 
+max-width: 200px; 
+
+}
+
+h1{
+
+color: rgb(24, 44, 4);
+
+}
